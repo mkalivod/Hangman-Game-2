@@ -1,0 +1,20 @@
+{
+  "name": "hangmannodejs",
+  "version": "1.0.0",
+  "description": "\"hangman game - advanced JavaScript\"",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Hangman-Game-2"
+  },
+  "author": "Madison Kalivoda",
+  "license": "ISC",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {}
+}
